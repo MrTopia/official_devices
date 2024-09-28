@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1724924632,
-      "size": 2273102869,
-      "filehash": "03bf585e5d91489f83ce39ff80f1ed43",
-      "filename": "EverestOS-1.5-Lukla-veux-OFFICIAL-GAPPS-1739-20240829.zip",
-      "id": "153293ffa9e8d6443a815739a229a7d789a91512bf22ca57d0adea031512cc82",
+      "datetime": 1727501402,
+      "size": 2277845022,
+      "filehash": "040c4c7df3fd7831deed3768668b2c8c",
+      "filename": "EverestOS-1.6-Lukla-EOL-veux-OFFICIAL-GAPPS-0532-20240928.zip",
+      "id": "547d95ca608536a0085d4b29bf89934f05e8dc04697b444a9070008aa0216baf",
       "romtype": "OFFICIAL",
-      "version": "1.5",
+      "version": "1.6",
       "maintainer": "MrTopiA",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/veux/EverestOS-1.5-Lukla-veux-OFFICIAL-GAPPS-1739-20240829.zip/download"
+      "url": "https://sourceforge.net/projects/everestos-releases/files/veux/EverestOS-1.6-Lukla-EOL-veux-OFFICIAL-GAPPS-0532-20240928.zip/download"
     }
   ]
 }

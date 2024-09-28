@@ -1,3 +1,7 @@
+# 28-Sep-2024
+- Merged with Latest EverestOs 1.6 EOL Source
+- Miscellaneous Changes
+
 # 30-Aug-2024
 - Merged with Latest Source
 - Added Equaliser for Xiaomi Dolby 
